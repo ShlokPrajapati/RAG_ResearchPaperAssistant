@@ -1,0 +1,16 @@
+pymupdf 
+PyPDF2 
+nltk
+sentence-transformers
+faiss-cpu
+langchain
+langchain-community 
+langchain-huggingface
+langchain-groq
+python-dotenv 
+groq
+requests
+arxiv 
+torch
+streamlit
+numpy
